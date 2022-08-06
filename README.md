@@ -3,7 +3,7 @@ Site rules for members
 
 # Work in progress.
 
-Find the product PDF in `./docs`
+Find the product PDF in `./pdf``
 
 Find the source LaTeX in `./tex`
 
