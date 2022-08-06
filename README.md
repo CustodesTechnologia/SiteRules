@@ -12,7 +12,7 @@ Find the source LaTeX in `./tex`
 
 ```
 $ git clone git@github.com:CustodesTechnologia/SiteRules.git
-$ cd tex
+$ cd SiteRules/tex
 $ latex bnc_rules.tex
 ```
 
